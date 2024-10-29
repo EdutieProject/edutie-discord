@@ -1,0 +1,129 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"title": {
+			"type": "string",
+			"maxLength": 256
+		},
+		"description": {
+			"type": "string",
+			"maxLength": 2048
+		},
+		"url": {
+			"type": "string",
+			"format": "uri"
+		},
+		"timestamp": {
+			"type": "string",
+			"format": "date-time"
+		},
+		"color": {
+			"type": "integer"
+		},
+		"footer": {
+			"type": "object",
+			"properties": {
+				"text": {
+					"type": "string",
+					"maxLength": 2048
+				},
+				"icon_url": {
+					"type": "string",
+					"format": "uri"
+				}
+			},
+			"required": [
+				"text"
+			]
+		},
+		"image": {
+			"type": "object",
+			"properties": {
+				"url": {
+					"type": "string",
+					"format": "uri"
+				}
+			},
+			"required": [
+				"url"
+			]
+		},
+		"thumbnail": {
+			"type": "object",
+			"properties": {
+				"url": {
+					"type": "string",
+					"format": "uri"
+				}
+			},
+			"required": [
+				"url"
+			]
+		},
+		"video": {
+			"type": "object",
+			"properties": {
+				"url": {
+					"type": "string",
+					"format": "uri"
+				}
+			}
+		},
+		"provider": {
+			"type": "object",
+			"properties": {
+				"name": {
+					"type": "string"
+				},
+				"url": {
+					"type": "string",
+					"format": "uri"
+				}
+			}
+		},
+		"author": {
+			"type": "object",
+			"properties": {
+				"name": {
+					"type": "string",
+					"maxLength": 256
+				},
+				"url": {
+					"type": "string",
+					"format": "uri"
+				},
+				"icon_url": {
+					"type": "string",
+					"format": "uri"
+				}
+			},
+			"required": [
+				"name"
+			]
+		},
+		"fields": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"maxLength": 256
+					},
+					"value": {
+						"type": "string",
+						"maxLength": 1024
+					},
+					"inline": {
+						"type": "boolean"
+					}
+				},
+				"required": [
+					"name",
+					"value"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"content": {
+			"type": "string",
+			"maxLength": 2000
+		},
+		"username": {
+			"type": "string",
+			"maxLength": 80
+		},
+		"avatar_url": {
+			"type": "string",
+			"format": "uri"
+		},
+		"tts": {
+			"type": "boolean"
+		},
+		"embeds": {
+			"type": "array",
+			"items": {
+				"$ref": "../embeds/$schema.json"
+			}
+		},
+		"allowed_mentions": {
+			"type": "object",
+			"properties": {
+				"parse": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"roles": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"users": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"replied_user": {
+					"type": "boolean"
+				}
+			}
+		}
+	},
+	"required": [
+		"content"
+	]
+}
