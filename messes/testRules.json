@@ -1,0 +1,41 @@
+{
+	"content": "# 📜Regulamin przykład\n|| @everyone ||\n",
+	"tts": false,
+	"embeds": [
+		{
+			"id": 793494915,
+			"description": "Opis zasad",
+			"fields": [
+				{
+					"id": 176370829,
+					"name": "Zasada 1/25",
+					"value": "Opis"
+				},
+				{
+					"id": 967766540,
+					"name": "Zasada 2/25",
+					"value": "Opis"
+				}
+			],
+			"title": "Zbiór zasad 1/10",
+			"color": 7940136
+		},
+		{
+			"id": 516869108,
+			"description": "Opis zasad",
+			"fields": [
+				{
+					"id": 334848046,
+					"name": "Zasada 1/25",
+					"value": "Opis"
+				}
+			],
+			"title": "Zbiór zasad 2/10",
+			"color": 3084047
+		}
+	],
+	"components": [],
+	"actions": {},
+	"username": "NowaNauka",
+	"avatar_url": "https://avatars.githubusercontent.com/u/145199125?s=200&v=4"
+}
