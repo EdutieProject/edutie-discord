@@ -1,0 +1,118 @@
+{
+	"content": "# Regulamin serwera\n\n|| @everyone ||\n\n{{krótki opis Edutie}}\n",
+	"tts": false,
+	"embeds": [
+		{
+			"id": 582777463,
+			"title": "1️⃣ Zasady ogólne",
+			"description": "Edutie ma być kulturalnym i przyjaznym miejscem dla każdego. Aby tak było wprowadzamy kilka prostych podstawowych zasad, które obowiązują każdego wszędzie na serwerze. Oczywiste chyba są netykieta i ogólnie przyjęte normy kultury. Najprościej można je określić: \"traktuj innych jakby byli tobą\".",
+			"color": 8438334,
+			"footer": {
+				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
+			},
+			"thumbnail": {
+				"url": "https://avatars.githubusercontent.com/u/145199125"
+			},
+			"fields": [
+				{
+					"id": 486419918,
+					"name": "1. Prawa nadrzędne",
+					"value": "📜Na serwerze obowiązuje prawo Rzeczpospolitej Polski oraz wszelkie ratyfikowane konwencje (zgodnie z art. 10 Konstytucji III RP) ze szczególnym wyróżnieniem:\n- Konwencji o prawach Człowieka i Dziecka\n- Unijnego RODO\n- Konstytucji RP\n- Kodeksu Karnego RP\n\n🚫W związku z powyższymi ustawami stanowczo zakazuje się nękania, prześladowania, czy dowolnej formy dyskryminacji.\n‼️Wszelkie naruszenia powyższego punktu mogą i będą zgłaszane do organów nadrzędnych (m. im. policja)"
+				},
+				{
+					"id": 43963329,
+					"name": "2. Właściciel serwera",
+					"value": "ℹ️Właścicielem serwera jest zespół \"Nowa Nauka\" (<@&1304153762906247249>, <@&1304156201168146504>).\nℹ️Zespół \"Nowa Nauka\" jest właścicielem wszystkich publikowanych na serwerze treści, ale nie jest za nie bezpośrednio odpowiedzialny.\nℹ️\"Nowa Nauka\" zastrzega sobie prawo do wykorzystywania treści z serwera w celu promocji."
+				},
+				{
+					"id": 193978246,
+					"name": "3. Moderacja",
+					"value": "ℹ️Przestrzegania zasad na serwerze pilnuje moderacja serwera (<@&1305560557629210635>).\n❗W przypadku zauważenie łamania regulaminu członek serwera jest zobowiązany powiadomić o tym bezzwłocznie moderację. Akcje moderacje są ostatecznie i nie odwoływalne.\n❗Ostateczna decyzja co do interpretacji akcji użytkownika należy do moderacji serwera.\nℹ️Moderacja zastrzega prawo do wykonywania akcji bez podawania przyczyny (także karania)"
+				},
+				{
+					"id": 264832164,
+					"name": "4. Netykieta",
+					"value": "❗Na serwerze obowiązuje przestrzeganie tzw. \"Netykiety\", czyli ogólnie przyjętych norm i zasad zachowania w Internecie.\n[Tutaj](https://pl.wikipedia.org/wiki/Netykieta) możesz dowiedzieć się więcej.\n1. Nie przeklinaj, nie nękaj, szanuj innych i ich poglądy  🛑STOP mowie nienawiści\n2. Nie umieszczaj treści przeznaczonych dla osób w wieku powyżej 18+ lat\n3. Szanuj prywatność innych. Nie umieszczaj cudzych zdjęć, prac, czy w szczególności cudzego wizerunku bez jasnej zgody\n4. Pisz poprawnie i kulturalnie"
+				},
+				{
+					"id": 556976816,
+					"name": "5. Język",
+					"value": "❗Na serwerze obowiązuje język polski.\n🚫Obowiązuje zakaz umieszczania treści w innych językach. Wyjątkiem od reguły są ogólnie akceptowane zapożyczenia z języka angielskiego wynikające z tzw. *slangu*.\n🚫Obowiązuje całkowity zakaz używania języka wulgarnego."
+				},
+				{
+					"id": 502362678,
+					"name": "6. Neutralność poglądów",
+					"value": "🚫Na serwerze obowiązuje całkowity zakaz poruszania tematów o charakterze kontrowersyjnym.\n🚫Zakazuje się poruszania tematów związanych z polityką.\n❗Serwer jest otwarty na osoby LGBTQ+, jednakże zabrania się narzucania swoich przekonań innym osobom (tyczy się to zarówno osób LGBTQ+ narzucających swoje ideologie jak i osób narzucające ideologie przeciwnej LGBTQ+)"
+				},
+				{
+					"id": 63804032,
+					"name": "7. Reklama i promocja",
+					"value": "🚫Zabrania się reklamowania czego- lub kogokolwiek bez wyraźnej zgody moderacji serwera."
+				},
+				{
+					"id": 670901360,
+					"name": "8. Tożsamość",
+					"value": "🚫Zakaz podszywania się pod inne osoby.\n🚫Szczególny zakaz podszywania się pod zespół \"Nowa Nauka\" i moderacje serwera"
+				}
+			]
+		},
+		{
+			"id": 666719939,
+			"title": "2️⃣Kanały tekstowe",
+			"description": "Serwer udostępnia różne kanały tekstowe w wielu różnych celach. Przestrzegaj cele każdego kanału.",
+			"footer": {
+				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
+			},
+			"thumbnail": {
+				"url": "https://avatars.githubusercontent.com/u/145199125"
+			},
+			"fields": [
+				{
+					"id": 436732497,
+					"name": "1. Zastosowanie kanałów tekstowych",
+					"value": "ℹ️Każdy kanał tekstowy ma wyznaczone odgórnie cele i zastosowania.\n❗Obowiązuje nakaz przestrzegania ustalonych celów dla każdego kanału.\n🚫Obowiązuje szczególny zakaz zaśmiecania czatu poleceniami do botów. (poza kanałami do tego przeznaczonymi)",
+					"inline": false
+				},
+				{
+					"id": 965079728,
+					"name": "2. SPAM i Flood",
+					"value": "🚫Obowiązuje całkowity zakaz SPAMowania, tj. wysyłania nadmiernej ilości powtarzających się wiadomości.\n🚫Obowiązuje całkowity zakaz Floodowania, tj. nadmiernego powielania identycznych treści w wiadomości."
+				},
+				{
+					"id": 250860372,
+					"name": "3. Emoji i Zalgo",
+					"value": "🚫Obowiązuje zakaz nadużywania emoji w wiadomościach.\nℹ️Dopuszczalna liczba emoji w jednej wiadomości to 5\n🚫Obowiązuje całkowity zakaz pisania Zalgiem"
+				},
+				{
+					"id": 795328618,
+					"name": "4. Stylistyka i formatowanie",
+					"value": "🚫Zabrania się korzystania z dowolnych metod formatowaniu, bądź stylistyki w celu utrudnienia czytalności wiadomości.\n🚫Obowiązuje zakaz nadużywania SPOILERów\nℹ️Dozwolona liczba SPOILERów w jednej wiadomości to 3\nℹ️Obowiązuje ograniczenie używania CAPSA. Dopuszcza się max. 50% wiadomości.\nℹ️Obowiązują podstawowe wytyczne dot. stylistyki i formatowania tekstu przyjęte w języku polskim i/lub \"Netykiecie\""
+				},
+				{
+					"id": 94567870,
+					"name": "5. Sensowność treści",
+					"value": "🚫Zabrania się wysyłania wiadomości pozbawionych treści lub jej sensowności.\n🚫Zabrania się wysyłania treści niezwiązanych z aktualnie prowadzoną dyskusją"
+				},
+				{
+					"id": 104135215,
+					"name": "6. Edycja i reakcje",
+					"value": "- Zamiast wysyłać wiadomości charakteru poprawki do poprzedniej wiadomości (np. `*literówki`) wykorzystuj opcje edycji wiadomości.\n- Zamiast wysyłać niepotrzebne krótkie wiadomości (np. `rel`, `haha`) stosuj odpowiednie reakcje.\n❗Niezastosowanie się do powyższych zaleceń może skutkować upomnieniem."
+				},
+				{
+					"id": 48208018,
+					"name": "7. Wzmianki",
+					"value": "🚫Zakazuje się niepotrzebnego/nieuzasadnionego oznaczanie innych użytkowników.\n🚫Obowiązuje szczególny zakaz nieuzasadnionego oznaczania moderacji serwera."
+				},
+				{
+					"id": 645279567,
+					"name": "8. Linki",
+					"value": "🚫Obowiązuje zakaz udostępniania linków do nielegalnych treści\n🚫Obowiązuje zakaz udostępniania linków o charakterze szkodliwym (phishing, etc.)\nℹ️Każda wiadomość zawierająca link podlega szczególnej rygorystycznej ocenie i może skutkować karami (niezależnie od adresu docelowego linku)"
+				}
+			]
+		}
+	],
+	"components": [],
+	"actions": {},
+	"username": "NowaNauka",
+	"avatar_url": "https://avatars.githubusercontent.com/u/145199125"
+}
