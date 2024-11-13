@@ -11,7 +11,7 @@
 				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
 			},
 			"thumbnail": {
-				"url": "https://avatars.githubusercontent.com/u/145199125"
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
 			},
 			"fields": [
 				{
@@ -27,7 +27,7 @@
 				{
 					"id": 193978246,
 					"name": "3. Moderacja",
-					"value": "ℹ️Przestrzegania zasad na serwerze pilnuje moderacja serwera (<@&1305560557629210635>).\n❗W przypadku zauważenie łamania regulaminu członek serwera jest zobowiązany powiadomić o tym bezzwłocznie moderację. Akcje moderacje są ostatecznie i nie odwoływalne.\n❗Ostateczna decyzja co do interpretacji akcji użytkownika należy do moderacji serwera.\nℹ️Moderacja zastrzega prawo do wykonywania akcji bez podawania przyczyny (także karania)"
+					"value": "ℹ️Przestrzegania zasad na serwerze pilnuje moderacja serwera (<@&1305560557629210635>).\n❗W przypadku zauważenie łamania regulaminu członek serwera jest zobowiązany powiadomić o tym bezzwłocznie moderację. Akcje moderacje są ostatecznie i nie odwoływalne.\n❗Ostateczna decyzja co do interpretacji akcji użytkownika należy do moderacji serwera.\nℹ️Moderacja zastrzega prawo do wykonywania akcji bez podawania przyczyny (także karania)\nℹ️Więcej o moderacji w rozdziale 4"
 				},
 				{
 					"id": 264832164,
@@ -54,7 +54,10 @@
 					"name": "8. Tożsamość",
 					"value": "🚫Zakaz podszywania się pod inne osoby.\n🚫Szczególny zakaz podszywania się pod zespół \"Nowa Nauka\" i moderacje serwera"
 				}
-			]
+			],
+			"image": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/headers/%23regulamin/regulamin1.png?token=GHSAT0AAAAAACZGZB2D5OWBTBFGNLB5X7MMZZU7Z3A"
+			}
 		},
 		{
 			"id": 666719939,
@@ -64,7 +67,7 @@
 				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
 			},
 			"thumbnail": {
-				"url": "https://avatars.githubusercontent.com/u/145199125"
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
 			},
 			"fields": [
 				{
@@ -108,11 +111,108 @@
 					"name": "8. Linki",
 					"value": "🚫Obowiązuje zakaz udostępniania linków do nielegalnych treści\n🚫Obowiązuje zakaz udostępniania linków o charakterze szkodliwym (phishing, etc.)\nℹ️Każda wiadomość zawierająca link podlega szczególnej rygorystycznej ocenie i może skutkować karami (niezależnie od adresu docelowego linku)"
 				}
-			]
+			],
+			"image": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/headers/%23regulamin/regulamin2.png?token=GHSAT0AAAAAACZGZB2CSDHV5KR4CR4LCBFMZZU72AA"
+			}
+		},
+		{
+			"id": 228850783,
+			"description": "Kanały głosowe mogą być nagrywane przez moderację (również przy pomocy botów) w celu ułatwienia monitorowania lub zabezpieczenia dowodów.",
+			"fields": [
+				{
+					"id": 733566650,
+					"name": "1. Zastosowanie kanałów głosowych",
+					"value": "ℹ️Każdy kanał głosowy znajduje się w kategorii, każda kategoria ma odgórnie określone cele i zastosowania, których należy przestrzegać."
+				},
+				{
+					"id": 332648743,
+					"name": "2. Aktywności na żywo i udostępnianie ekranu",
+					"value": "🚫Obowiązuje zakaz udostępniania treści nieodpowiednich\n🚫Stanowczo zabrania się używania aktywności podszywających się pod Edutie i/lub Discord"
+				},
+				{
+					"id": 359942667,
+					"name": "3. Panel efektów dźwiękowych (a.k.a. Soundboard) i modulatory",
+					"value": "🚫Wszystkie dźwięki są obiektem oceny wg regulaminu\n🚫Zabrania się stosowania 3-osobowych aplikacji do modyfikacji wejścia dźwięku\n🚫Stanowczo zabrania się korzystania z dowolnego oprogramowania generacji i modulacji głosu\n🚫Obowiązuje zakaz puszczania muzyki (jeśli chcesz jej słuchać  nie może ona przeszkadzać innym użytkownikom)"
+				},
+				{
+					"id": 184805778,
+					"name": "4. Nagrywanie",
+					"value": "🚫Obowiązuje zakaz nagrywania rozmów\nℹ️Moderacja zastrzega sobie prawo do nagrywania rozmów (również za pomocą botów) w dowolnym momencie bez wcześniejszego uprzedzenia.\nℹ️Nagrania wykonane przez moderacje mogą zostać użyte przeciwko użytkownikowi jako dowód złamania zasad, a w przypadku złamania aktów prawnych zostają udostępnione organom porządkowym (m.in. policji)"
+				},
+				{
+					"id": 718452654,
+					"name": "5. Standardy ochrony słuchu",
+					"value": "ℹ️Na serwerze obowiązuje nakaz stosowania się do *Międzynarodowego Standardu Ochrony Słuchu*. W związku z którym zabrania się produkowania głośnych dźwięków (standardem uznaje się -13 LUFS)"
+				},
+				{
+					"id": 687086896,
+					"name": "6. Mikrofon",
+					"value": "ℹ️Kanały tekstowe nie służą do diagnozowania mikrofonu. Jeżeli masz z nim problemy wycisz się.\nℹ️Jeżeli powoduje echo/przestery wycisz się i załóż słuchawki."
+				}
+			],
+			"thumbnail": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
+			},
+			"title": "3️⃣Kanały głosowe",
+			"footer": {
+				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
+			},
+			"image": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/headers/%23regulamin/regulamin3.png?token=GHSAT0AAAAAACZGZB2CIK436M65YHRRYMTYZZU72DA"
+			}
+		},
+		{
+			"id": 236224577,
+			"description": "Celem zapewnienia bezpiecznych, przyjaznych i korzystnych warunków na serwerze powołuje się moderacje.",
+			"fields": [
+				{
+					"id": 733566650,
+					"name": "1. Moderacja, boty, automod",
+					"value": "ℹ️Na serwerze stosuje się mechanizmy automatycznej moderacji (tj. automod) wbudowanej w bota <@572906387382861835>\nℹ️Wszelkie zautomatyzowane akcje moderacyjne (tj. wykonane przez automoda) uznawane są za działania moderacji. Są one na bieżąco weryfikowane przez moderację\nℹ️Wszystkie działania moderacyjne widoczne są na kanale <#1304419578369282058>"
+				},
+				{
+					"id": 599456050,
+					"name": "2. System punktów karnych",
+					"value": "ℹ️W większości wypadków złamanie regulaminu skutkuje ostrzeżeniem, które jest warte **1**-**3** pkt karnych.\nℹ️Punkty karne wygasają po okresie 30 dni."
+				},
+				{
+					"id": 981359249,
+					"name": "3. Kary",
+					"value": "ℹ️Na serwerze stosuje się kilka różnych rodzajów kar. Każda kara dzielona jest na 2 typy:\n1. **Temp**, czyli kara tymczasowa, przyznawana na jakiś okres\n2. **Perm**, czyli kara na stałe, przyznawana na zawsze\n\nℹ️Stosowane rodzaje kar:\n1. **Mute**, czyli wyciszenie użytkownika, pozwala na czytanie wiadomości i słuchanie na kanałach głosowych, ale nie pozwala na wysyłanie wiadomości, czy mówienie\n2. **Ban**, czyli wyrzucenie użytkownika z zablokowaniem możliwości ponownego dołączenia\n\nℹ️Kary mogą zostać przyznane manualnie przez moderacje, a także przyznawane są automatycznie co każde 3 uzyskane pkt karne\nℹ️Poniżej przedstawiono tabele kar"
+				},
+				{
+					"id": 241268382,
+					"name": "Ilość punktów",
+					"value": "3\n6\n9\n12\n15\n18\n21\n24\n27\n30",
+					"inline": true
+				},
+				{
+					"id": 839400682,
+					"name": "Kara i jej długość",
+					"value": "tempmute na 5 min\ntempmute na 15 min\ntempmute na 30 min\ntempmute na 1 h\ntempmute na 3 h\ntempmute na 12 h\ntempmute na 24 h\ntempmute na tydzień\ntempban na 24 h\nban (perm)",
+					"inline": true
+				},
+				{
+					"id": 468376281,
+					"name": "4. Odwołania",
+					"value": "ℹ️Regulamin nie uwzględnia odgórnie warunków i zasad odwoływania się od kar.\nℹ️W szczególnych przypadkach moderacja może odwołać karę lub ją zmienić\nℹ️Celem uzyskania szczegółów kary, powodów, uzasadnienia oraz ustalenia innych warunków należy kontaktować się prywatnie z moderacją. __Moderacja nie jest zobowiązana do odpowiedzi__"
+				}
+			],
+			"thumbnail": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
+			},
+			"title": "4️⃣Moderacja i kary",
+			"footer": {
+				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
+			},
+			"image": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/headers/%23regulamin/regulamin4.png?token=GHSAT0AAAAAACZGZB2CNOKWYNF7JB2NCCDAZZU72EQ"
+			}
 		}
 	],
 	"components": [],
 	"actions": {},
 	"username": "NowaNauka",
-	"avatar_url": "https://avatars.githubusercontent.com/u/145199125"
+	"avatar_url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
 }
