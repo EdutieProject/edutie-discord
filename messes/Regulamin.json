@@ -10,8 +10,11 @@
 			"footer": {
 				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
 			},
+			"image": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/headers/%23regulamin/regulamin1.png"
+			},
 			"thumbnail": {
-				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/icons/nowa_nauka.png"
 			},
 			"fields": [
 				{
@@ -54,10 +57,7 @@
 					"name": "8. Tożsamość",
 					"value": "🚫Zakaz podszywania się pod inne osoby.\n🚫Szczególny zakaz podszywania się pod zespół \"Nowa Nauka\" i moderacje serwera"
 				}
-			],
-			"image": {
-				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/headers/%23regulamin/regulamin1.png?token=GHSAT0AAAAAACZGZB2D5OWBTBFGNLB5X7MMZZU7Z3A"
-			}
+			]
 		},
 		{
 			"id": 666719939,
@@ -66,8 +66,11 @@
 			"footer": {
 				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
 			},
+			"image": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/headers/%23regulamin/regulamin2.png"
+			},
 			"thumbnail": {
-				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/icons/nowa_nauka.png"
 			},
 			"fields": [
 				{
@@ -112,13 +115,21 @@
 					"value": "🚫Obowiązuje zakaz udostępniania linków do nielegalnych treści\n🚫Obowiązuje zakaz udostępniania linków o charakterze szkodliwym (phishing, etc.)\nℹ️Każda wiadomość zawierająca link podlega szczególnej rygorystycznej ocenie i może skutkować karami (niezależnie od adresu docelowego linku)"
 				}
 			],
-			"image": {
-				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/headers/%23regulamin/regulamin2.png?token=GHSAT0AAAAAACZGZB2CSDHV5KR4CR4LCBFMZZU72AA"
-			}
+			"color": 7650910
 		},
 		{
 			"id": 228850783,
+			"title": "3️⃣Kanały głosowe",
 			"description": "Kanały głosowe mogą być nagrywane przez moderację (również przy pomocy botów) w celu ułatwienia monitorowania lub zabezpieczenia dowodów.",
+			"footer": {
+				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
+			},
+			"image": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/headers/%23regulamin/regulamin3.png"
+			},
+			"thumbnail": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/icons/nowa_nauka.png"
+			},
 			"fields": [
 				{
 					"id": 733566650,
@@ -151,20 +162,21 @@
 					"value": "ℹ️Kanały tekstowe nie służą do diagnozowania mikrofonu. Jeżeli masz z nim problemy wycisz się.\nℹ️Jeżeli powoduje echo/przestery wycisz się i załóż słuchawki."
 				}
 			],
-			"thumbnail": {
-				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
-			},
-			"title": "3️⃣Kanały głosowe",
+			"color": 6863486
+		},
+		{
+			"id": 236224577,
+			"title": "4️⃣Moderacja i kary",
+			"description": "Celem zapewnienia bezpiecznych, przyjaznych i korzystnych warunków na serwerze powołuje się moderacje.",
 			"footer": {
 				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
 			},
 			"image": {
-				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/headers/%23regulamin/regulamin3.png?token=GHSAT0AAAAAACZGZB2CIK436M65YHRRYMTYZZU72DA"
-			}
-		},
-		{
-			"id": 236224577,
-			"description": "Celem zapewnienia bezpiecznych, przyjaznych i korzystnych warunków na serwerze powołuje się moderacje.",
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/headers/%23regulamin/regulamin4.png"
+			},
+			"thumbnail": {
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/icons/nowa_nauka.png"
+			},
 			"fields": [
 				{
 					"id": 733566650,
@@ -199,20 +211,24 @@
 					"value": "ℹ️Regulamin nie uwzględnia odgórnie warunków i zasad odwoływania się od kar.\nℹ️W szczególnych przypadkach moderacja może odwołać karę lub ją zmienić\nℹ️Celem uzyskania szczegółów kary, powodów, uzasadnienia oraz ustalenia innych warunków należy kontaktować się prywatnie z moderacją. __Moderacja nie jest zobowiązana do odpowiedzi__"
 				}
 			],
+			"color": 6076062
+		},
+		{
+			"id": 387006804,
+			"description": "",
+			"fields": [],
+			"color": 5288638,
 			"thumbnail": {
-				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
+				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/icons/nowa_nauka.png"
 			},
-			"title": "4️⃣Moderacja i kary",
 			"footer": {
 				"text": "Nieznajomość powyższych zasad nie zwalnia z ich przestrzegania!"
 			},
-			"image": {
-				"url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/headers/%23regulamin/regulamin4.png?token=GHSAT0AAAAAACZGZB2CNOKWYNF7JB2NCCDAZZU72EQ"
-			}
+			"title": "5️⃣"
 		}
 	],
 	"components": [],
 	"actions": {},
 	"username": "NowaNauka",
-	"avatar_url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/refs/heads/main/assets/icons/nowa_nauka.png?token=GHSAT0AAAAAACZGZB2D4Z323NS4SYNP6VFWZZU7VRA"
+	"avatar_url": "https://raw.githubusercontent.com/EdutieProject/edutie-discord/main/assets/icons/nowa_nauka.png"
 }
